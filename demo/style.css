@@ -1,15 +1,49 @@
 body{
+    margin: 0;
+}
+
+#con{
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    padding: 50px;
+    width: 100%;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+
 }
 
-.counter {
+.card{
+    border-radius: 10px;
+    padding: 50px;
+    width: 24%;
+    box-sizing: border-box;
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+.number-animate {
     font-size: 36px;
     font-weight: bold;
     text-align: center;
-    margin-top: 200px; /* Adjust as needed */
-    padding-top: 500px;
-  }
+}
+
+.number-animate::before{
+    content: "+";
+}
+
+@media screen and (max-width: 1100px) {
+    #con{
+        row-gap: 15px;
+        padding: 10px;
+    }
+
+    .card{
+        width: 49%;
+    }
+}
+
+
   
