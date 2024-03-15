@@ -12,7 +12,7 @@
 ## How To Use It
   1. Add script right before closing &lt;body&gt; tag:
    ```bash
-   <<script src="https://cdn.jsdelivr.net/gh/BossEmma/Number-Animate/number_animate.js"></script>>;
+   <script src="https://cdn.jsdelivr.net/gh/BossEmma/Number-Animate/number_animate.js"></script>;
    ```
   2. Set the object class name to "number-animate":
    ```bash
