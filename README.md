@@ -31,14 +31,14 @@
    ```
 
 ## Predefined Options:
-  ### number-animate-start= "0"
-    This defines the count starting point
+  ## number-animate-start= "*"
+  This defines the count starting point
 
-  ### number-animate-end= "100"
-    This defines the count end point
+  ### number-animate-end= "*"
+  This defines the count end point
 
-  ### number-animate-increment= "10"
-    This defines the number at which the count increases by
+  ### number-animate-increment= "*"
+  This defines the number at which the count increases by
 
-  ### number-animate-start= "0"
-    This defines the delay in milliseconds between each count
+  ### number-animate-start= "*"
+  This defines the delay in milliseconds between each count
