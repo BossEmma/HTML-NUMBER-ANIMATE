@@ -5,7 +5,7 @@
   
 ## Installation
   Add script right before closing &lt;body&gt; tag:
-   ```bash
+   ```html
    <script src="https://cdn.jsdelivr.net/gh/BossEmma/Number-Animate/number_animate.js"></script>;
    ```
 
