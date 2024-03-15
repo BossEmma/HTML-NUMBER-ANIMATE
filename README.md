@@ -28,5 +28,3 @@
       number-animate-delay= "20"
     </div>
    ```
-
-## Features
