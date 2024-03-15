@@ -24,8 +24,21 @@
    ```html
     <div class="number-animate">
       number-animate-start= "0"
-      number-animate-end= "200"
+      number-animate-end= "100"
       number-animate-increment= "10"
       number-animate-delay= "20"
     </div>
    ```
+
+## Predefined Options:
+  ### number-animate-start= "0"
+  This defines the count starting point
+
+  ### number-animate-end= "100"
+  This defines the count end point
+
+  ### number-animate-increment= "10"
+  This defines the number at which the count increases by
+
+  ### number-animate-start= "0"
+  This defines the delay in milliseconds between each count
