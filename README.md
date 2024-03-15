@@ -10,7 +10,7 @@
    ```
 
 ## How To Use It
-  1. Add script right before closing </body> tag:
+  1. Add script right before closing &lt;body&gt; tag:
    ```bash
    <script src="https://cdn.jsdelivr.net/gh/BossEmma/Number-Animate/number_animate.js"></script>
    ```
