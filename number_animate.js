@@ -1,12 +1,12 @@
 function startCounterAnimation() {
-    const counters = document.getElementsByClassName('counter');
+    const counters = document.getElementsByClassName('number-animate');
   
     for (let i = 0; i < counters.length; i++) {
         const counter = counters[i];
-        const startNumber = +counter.getAttribute('SN');
-        const target = +counter.getAttribute('EN');
-        const delay = +counter.getAttribute('delay');
-        const add = +counter.getAttribute('add');
+        const startNumber = +counter.getAttribute('number-animate-start');
+        const target = +counter.getAttribute('number-animate-end');
+        const delay = +counter.getAttribute('number-animate-delay');
+        const add = +counter.getAttribute('number-animate-increment');
         let current = startNumber;
         let animationId;
         let isInView = false;
