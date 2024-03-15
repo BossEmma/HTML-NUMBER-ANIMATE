@@ -1,5 +1,6 @@
 # Number-Animate
-
+  Number-Animate is a lightweight JavaScript library for animating numbers on web pages, allowing smooth transitions between numerical values
+  
 ## Demo:
   Coming soon...
   
