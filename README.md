@@ -31,7 +31,7 @@
    ```
 
 ## Predefined Options:
-  ## number-animate-start= "*"
+  ### number-animate-start= "*"
   This defines the count starting point
 
   ### number-animate-end= "*"
