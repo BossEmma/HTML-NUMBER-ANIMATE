@@ -1,5 +1,5 @@
-# Number-Animate
-  Number-Animate is a lightweight JavaScript library for animating numbers on web pages, allowing smooth transitions between numerical values
+# HTML-NUMBER-COUNTER-EFFECT
+  HTML-NUMBER-COUNTER-EFFECT is a lightweight JavaScript library for animating numbers on web pages, allowing smooth transitions between numerical values
   
 ## Demo:
   Coming soon...
