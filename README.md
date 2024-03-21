@@ -4,6 +4,10 @@
 ## Demo:
   Coming soon...
   
+
+https://github.com/BossEmma/HTML-NUMBER-COUNTER-EFFECT/assets/128752098/b0b67d8d-3485-49ba-8849-7c08fdd253e4
+
+
 ## How To Use It
   1. Add script right before closing &lt;body&gt; tag:
    ```html
